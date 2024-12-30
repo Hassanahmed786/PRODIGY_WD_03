@@ -1,5 +1,4 @@
-# PRODIGY_WD_03
-Tic-Tac-Toe Web Application
+# Tic-Tac-Toe Web Application
 
 - Description: This project is a tic-tac-toe web application built using HTML, CSS, and JavaScript.
   
